@@ -143,3 +143,6 @@ Zip all content inside `Build_Release/ASSETS` directory to `ASSETS.ZIP` file.
  
 -  **TODO** - add screenshots
 
+
+## Build Instructions
+To build OpenClaw from source, ensure you have CMake and dynamic audio libraries configured.
