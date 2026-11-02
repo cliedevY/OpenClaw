@@ -1,0 +1,32 @@
+Box2D/Box2D/CMakeFiles/Box2D.dir/Common/b2Timer.cpp.o: \
+  /workspace/app/Box2D/Box2D/Common/b2Timer.cpp \
+  /workspace/app/Box2D/Box2D/../Box2D/Common/b2Timer.h \
+  /workspace/app/Box2D/Box2D/../Box2D/Common/b2Settings.h \
+  /tmp/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/stddef.h \
+  /tmp/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__config \
+  /tmp/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__config_site \
+  /tmp/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__configuration/abi.h \
+  /tmp/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__configuration/compiler.h \
+  /tmp/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__configuration/platform.h \
+  /tmp/emsdk/upstream/emscripten/cache/sysroot/include/features.h \
+  /tmp/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__configuration/availability.h \
+  /tmp/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__configuration/language.h \
+  /tmp/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__configuration/experimental.h \
+  /tmp/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/__configuration/hardening.h \
+  /tmp/emsdk/upstream/lib/clang/24/include/stddef.h \
+  /tmp/emsdk/upstream/emscripten/cache/sysroot/include/stddef.h \
+  /tmp/emsdk/upstream/lib/clang/24/include/__stddef_header_macro.h \
+  /tmp/emsdk/upstream/lib/clang/24/include/__stddef_ptrdiff_t.h \
+  /tmp/emsdk/upstream/lib/clang/24/include/__stddef_size_t.h \
+  /tmp/emsdk/upstream/lib/clang/24/include/__stddef_wchar_t.h \
+  /tmp/emsdk/upstream/lib/clang/24/include/__stddef_null.h \
+  /tmp/emsdk/upstream/lib/clang/24/include/__stddef_nullptr_t.h \
+  /tmp/emsdk/upstream/lib/clang/24/include/__stddef_max_align_t.h \
+  /tmp/emsdk/upstream/lib/clang/24/include/__stddef_offsetof.h \
+  /tmp/emsdk/upstream/emscripten/cache/sysroot/include/assert.h \
+  /tmp/emsdk/upstream/emscripten/cache/sysroot/include/c++/v1/float.h \
+  /tmp/emsdk/upstream/lib/clang/24/include/float.h \
+  /tmp/emsdk/upstream/emscripten/cache/sysroot/include/float.h \
+  /tmp/emsdk/upstream/lib/clang/24/include/__float_header_macro.h \
+  /tmp/emsdk/upstream/lib/clang/24/include/__float_float.h \
+  /tmp/emsdk/upstream/lib/clang/24/include/__float_infinity_nan.h

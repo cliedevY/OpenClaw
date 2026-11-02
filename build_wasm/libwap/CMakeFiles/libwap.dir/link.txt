@@ -1,0 +1,2 @@
+/tmp/emsdk/upstream/emscripten/emar qc liblibwap.a CMakeFiles/libwap.dir/AniFile.cpp.o CMakeFiles/libwap.dir/Miniz.cpp.o CMakeFiles/libwap.dir/PalFile.cpp.o CMakeFiles/libwap.dir/PidFile.cpp.o CMakeFiles/libwap.dir/RezArchiveFile.cpp.o CMakeFiles/libwap.dir/Util.cpp.o CMakeFiles/libwap.dir/WwdFile.cpp.o CMakeFiles/libwap.dir/XmiFile.cpp.o
+/tmp/emsdk/upstream/emscripten/emranlib liblibwap.a
